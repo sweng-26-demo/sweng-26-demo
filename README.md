@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a sample github user that can be used with TCD Sweng-26 project
+
 <!--
 **sweng-26-demo/sweng-26-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
